@@ -3,9 +3,9 @@ Online Banking System in PHP & MySQL.
 
 Authors: 
         
-PRAMOD YADAV 
+PRAMOD YADAV ,
 SHEKHAR CHAUHAN 
-SHIVENDRA VIKRAM BAHADUR SINGH 
+
          
 TIME - 1 YEAR ... AND FINALLY COMPLETED....
 
